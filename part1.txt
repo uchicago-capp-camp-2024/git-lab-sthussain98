@@ -1,16 +1,19 @@
 # Terminal Review Questions
 
 1. What command would you use to go "up" a directory. (e.g. from space/planets to space/)?
+..
 
 
 2. What does the "~" character mean?  (i.e. where would `cd ~` take you?)
+It would take you to your home directory.
 
 
 3. What is the keyboard shortcut for jumping to the beginning of the line?
+Ctrl -U
 
 
 4. What is a command that you type to get help with other commands and programs?
-
+man <command>
 
 
 
